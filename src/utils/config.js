@@ -1,1 +1,1 @@
-export const BASE_URL = "https://nextalk-93vo.onrender.com";
+export const BASE_URL = "https://nextalk-s9x9.onrender.com";
